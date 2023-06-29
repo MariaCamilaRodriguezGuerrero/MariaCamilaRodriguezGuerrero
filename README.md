@@ -18,6 +18,8 @@ Espero en un año haber aprendido nuevas tecnologias mas de las que actualemnte 
 • Node.JS
 • Express.JS
 • PostgreSQL
+• PHP
+• MySQL
 
 # Las habilidades por las que me destaco son:
 • Liderazgo 
